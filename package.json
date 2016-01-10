@@ -1,0 +1,11 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "description": "function of beauty's iPad Application",
+  "main": "index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "sahkho",
+  "license": "ISC"
+}
